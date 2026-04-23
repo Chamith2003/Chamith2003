@@ -16,7 +16,7 @@
   
 ### About me
 
-- 🎓 BSc in Computer Science at **University of Colombo School of Computing (UCSC)**
+- 🎓 BSc in Computer Science Undergraduate at **University of Colombo School of Computing (UCSC)**
 - 🌱 I’m currently learning **React, Next.js, TypeScript, Node.js, Docker, cloud deployment (AWS/Vercel), and AI integration (OpenAI APIs, LangChain)** to build modern full-stack applications.
 - 🤝 I'm looking to collaborate on **real-world web systems**
 - 📫 Reach me at **ugchamithnimsara@gmail.com**
@@ -64,25 +64,29 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  ## 📊 GitHub Stats
+
   <img src="https://github-readme-stats.vercel.app/api?username=chamith2003&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+  <br></br>
+  
+  ## 🔥 Streak Stats
 
----
-
-## 🔥 Streak Stats
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamith2003&theme=tokyonight&cache_seconds=1800" />
-</p>
+</td>
 
----
-
+<td width="50%" align="center">
+  
 ## 📌 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamith2003&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamith2003&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
+</p> 
