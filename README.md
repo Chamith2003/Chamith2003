@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chamith Nimsara</h1>
 <h3 align="center">Passionate web developer building real-world systems · Sri Lanka</h3>
 
@@ -9,13 +10,27 @@
 </p>
 
 ---
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 ### About me
 
 - 🎓 BSc in Computer Science at **University of Colombo School of Computing (UCSC)**
 - 🌱 I’m currently learning **React, Next.js, TypeScript, Node.js, Docker, cloud deployment (AWS/Vercel), and AI integration (OpenAI APIs, LangChain)** to build modern full-stack applications.
 - 🤝 I'm looking to collaborate on **real-world web systems**
 - 📫 Reach me at **ugchamithnimsara@gmail.com**
+  
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
 
