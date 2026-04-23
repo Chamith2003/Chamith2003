@@ -25,19 +25,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/chamith-nimsara" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />&nbsp;&nbsp;
+  </a>
   <a href="https://twitter.com/nimsara_chamith" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" />&nbsp;&nbsp;
+  </a>
   <a href="https://instagram.com/_chamith_nimsara" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />&nbsp;&nbsp;
+  </a>
   <a href="https://fb.com/chamith.nimsara.18" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48" alt="Facebook" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ugchamithnimsara@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />&nbsp;&nbsp;
+  </a>
+  <a href="mailto:ugchamithnimsara@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
   </a>
 </p>
 
