@@ -12,6 +12,7 @@
 
 ### About me
 
+- 🎓 BSc in Computer Science at **University of Colombo School of Computing (UCSC)**
 - 🔭 I'm currently working on **[add your project]**
 - 🌱 I'm currently learning **[e.g. React, Node.js, Docker]**
 - 🤝 I'm looking to collaborate on **real-world web systems**
@@ -22,30 +23,31 @@
 
 ### Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/chamith-nimsara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/nimsara_chamith" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/_chamith_nimsara" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://fb.com/chamith.nimsara.18" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/chamith-nimsara" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/nimsara_chamith" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/_chamith_nimsara" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://fb.com/chamith.nimsara.18" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ugchamithnimsara@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 ### Tech stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,mysql,git,linux,arduino,figma,ps&perline=7" />
+</p>
 
 ---
 
