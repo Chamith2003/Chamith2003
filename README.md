@@ -13,10 +13,8 @@
 ### About me
 
 - 🎓 BSc in Computer Science at **University of Colombo School of Computing (UCSC)**
-- 🔭 I'm currently working on **[add your project]**
-- 🌱 I'm currently learning **[e.g. React, Node.js, Docker]**
+- 🌱 I’m currently learning **React, Next.js, TypeScript, Node.js, Docker, cloud deployment (AWS/Vercel), and AI integration (OpenAI APIs, LangChain)** to build modern full-stack applications.
 - 🤝 I'm looking to collaborate on **real-world web systems**
-- 💡 Fun fact: **[add something memorable about you!]**
 - 📫 Reach me at **ugchamithnimsara@gmail.com**
 
 ---
@@ -51,13 +49,25 @@
 
 ---
 
-### GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamith2003&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamith2003&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamith2003&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+---
+
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamith2003&layout=compact&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamith2003&theme=tokyonight&cache_seconds=1800" />
 </p>
+
+---
+
+## 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamith2003&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
